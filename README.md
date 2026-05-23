@@ -1,24 +1,26 @@
 # Hi, I'm Ariel Del Rio
 
-Senior Software Engineer focused on clean, reliable systems.
+Senior Software Engineer focused on clean, reliable frontend platforms and business-critical systems.
 
-I modernize web platforms for customer and core business workflows, lead migration and integration efforts, and build reusable components that improve delivery consistency across teams.
+I modernize React platforms for customer and core business workflows, lead migration and integration efforts, and build reusable frontend systems that improve delivery consistency across teams.
 
 ## What I bring ⚙️
 
-- Legacy modernization with a maintainability-first approach
+- React platform modernization with a maintainability-first approach
+- Frontend server-state architecture with TanStack Query
 - Cross-system integration design and implementation
-- Reusable components and communication systems used across products
+- Reusable frontend communication systems used across products
 - Strong code quality and reliability mindset
 - Practical AI-assisted workflows to improve development speed and team efficiency
 
 ## Selected impact 🚀
 
-- Modernized a legacy web platform and removed recurring build and deployment failures
-- Led a progressive backend migration while preserving interoperability
+- Modernized a large legacy React platform and stabilized builds and deployments
+- Standardized frontend server-state architecture across multiple applications
+- Delivered reusable frontend communication systems leveraged across multiple products
+- Designed and implemented a global order management system for third-party providers
 - Improved release consistency through CI/CD standardization
-- Delivered reusable communication infrastructure leveraged across multiple products
-- Implemented end-to-end testing for critical routes and user journeys
+- Implemented end-to-end testing for critical frontend user journeys
 
 ## Core stack 🧰
 
