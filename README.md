@@ -38,6 +38,11 @@ I modernize React platforms for customer and core business workflows, define fro
 - Improving delivery reliability through standards and automation
 - Applying AI-assisted engineering workflows in practical, measurable ways
 
+## Recent projects 🧩
+
+- Softphone Component — Twilio Voice softphone UI component (React/TypeScript/MUI). https://github.com/ArielDelRio/softphone
+- Chat Component — Twilio Conversations chat UI component (React/TypeScript/MUI). https://github.com/ArielDelRio/chat
+
 ## Connect 🤝
 
 - LinkedIn: https://www.linkedin.com/in/arieldrio
