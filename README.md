@@ -1,26 +1,27 @@
 # Hi, I'm Ariel Del Rio
 
-Senior Software Engineer focused on clean, reliable frontend platforms and business-critical systems.
+Senior Software Engineer focused on frontend architecture, platform modernization, and real-time communication systems.
 
-I modernize React platforms for customer and core business workflows, define frontend architecture and UI platform standards, and build reusable frontend systems that improve delivery consistency across teams.
+I build and modernize frontend platforms using React, React Native, and TypeScript, while contributing across backend services, cloud infrastructure, and CI/CD workflows. My work focuses on creating maintainable systems, reusable platform capabilities, and reliable delivery processes that help teams move faster.
 
 ## What I bring ⚙️
 
-- React platform modernization with a maintainability-first approach
+- Frontend architecture and platform modernization
+- React and React Native applications for business-critical workflows
 - Standardized data fetching, caching, and synchronization patterns with TanStack Query
-- Cross-system integration design and implementation
-- Reusable frontend communication systems used across products
-- Strong code quality and reliability mindset
-- Practical AI-assisted workflows to improve development speed and team efficiency
+- Real-time communication systems using Twilio and Zoom
+- Cross-system integration design and provider-service adapter patterns
+- CI/CD standardization, testing strategies, and delivery reliability
+- Strong maintainability, code quality, and engineering standards mindset
 
 ## Selected impact 🚀
 
-- Modernized a large legacy React platform and stabilized builds and deployments
-- Standardized data fetching, caching, and synchronization patterns across multiple applications
-- Delivered reusable frontend communication systems leveraged across multiple products
-- Designed and implemented a global order management system for third-party providers
-- Improved release consistency through CI/CD standardization
-- Implemented end-to-end testing for critical frontend user journeys
+- Increased end-to-end test coverage across critical application flows from 56% to 82%
+- Contributed to virtual inspection workflows reaching approximately 64% of total inspection volume
+- Reduced ecommerce store setup time from weeks to a few hours through reusable template architecture
+- Reduced dealer website launch time from 2–3 weeks to 3 days through workflow standardization
+- Modernized a large legacy React platform and enabled continued platform modernization through dependency upgrades and containerization
+- Led progressive migration from Hapi.js + Sequelize to NestJS + Prisma while preserving interoperability
 
 ## Core stack 🧰
 
@@ -34,9 +35,10 @@ I modernize React platforms for customer and core business workflows, define fro
 
 ## Currently focused on 🎯
 
-- Building maintainable architectures that scale with team growth
-- Improving delivery reliability through standards and automation
-- Applying AI-assisted engineering workflows in practical, measurable ways
+- Frontend architecture and platform modernization
+- React Native and real-time communication experiences
+- Delivery reliability through testing, CI/CD, and engineering standards
+- Practical use of AI-assisted workflows to improve engineering productivity
 
 
 ## Recent projects 🧩
