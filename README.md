@@ -1,18 +1,19 @@
 # Hi, I'm Ariel Del Rio
 
-Senior Software Engineer focused on frontend architecture, platform modernization, and real-time communication systems.
+Senior Software Engineer focused on full-stack platform development, scalable applications, and system modernization.
 
-I build and modernize frontend platforms using React, React Native, and TypeScript, while contributing across backend services, cloud infrastructure, and CI/CD workflows. My work focuses on creating maintainable systems, reusable platform capabilities, and reliable delivery processes that help teams move faster.
+I build scalable web and mobile applications using React, React Native, TypeScript, Node.js, and NestJS. My work spans full-stack development, distributed systems, microservices, platform modernization, cloud infrastructure, and CI/CD workflows, with a strong focus on maintainability, reusable platform capabilities, and reliable delivery for complex operational and customer-facing systems.
 
 ## What I bring ⚙️
 
-- Frontend architecture and platform modernization
-- React and React Native applications for business-critical workflows
-- Standardized data fetching, caching, and synchronization patterns with TanStack Query
+- Full-stack ownership across frontend architecture, Node.js backend services, and platform modernization
+- React and React Native applications for business-critical operational and customer workflows
+- Scalable caching, synchronization, and client-microservice communication patterns with TanStack Query
+- Distributed systems and microservice-based application design
 - Real-time communication systems using Twilio and Zoom
 - Cross-system integration design and provider-service adapter patterns
-- CI/CD standardization, testing strategies, and delivery reliability
-- Strong maintainability, code quality, and engineering standards mindset
+- CI/CD standardization, testing strategies, cloud delivery, and release reliability
+- Technical leadership, engineering standards, mentoring, and maintainability mindset
 
 ## Selected impact 🚀
 
@@ -21,24 +22,25 @@ I build and modernize frontend platforms using React, React Native, and TypeScri
 - Reduced ecommerce store setup time from weeks to a few hours through reusable template architecture
 - Reduced dealer website launch time from 2–3 weeks to 3 days through workflow standardization
 - Modernized a large legacy React platform and enabled continued platform modernization through dependency upgrades and containerization
-- Led progressive migration from Hapi.js + Sequelize to NestJS + Prisma while preserving interoperability
+- Standardized integrations and reduced operational complexity through a global order management system for third-party providers
+- Led progressive backend modernization from Hapi.js + Sequelize to NestJS + Prisma while preserving interoperability
 
 ## Core stack 🧰
 
-- Frontend: React, Next.js, TypeScript, Redux, TanStack Query, MUI, Vite
-- Backend and APIs: Node.js, NestJS, microservices architecture
-- Data and ORM: Prisma, Sequelize
-- Mobile: React Native
+- Frontend: JavaScript, TypeScript, React, React Native, Next.js, Redux, Zustand, TanStack Query, MUI, Vite
+- Backend and APIs: Node.js, NestJS, Express.js, REST APIs, microservices
+- Cloud and DevOps: Docker, Google Cloud, GitHub Actions, CircleCI, CI/CD
+- Data: PostgreSQL, Prisma, Sequelize
+- Engineering: System design, distributed systems, platform modernization, technical leadership
 - Communication platforms: Twilio, Zoom
-- DevOps and Cloud: Docker, CircleCI, Google Cloud
 - Testing and quality: Cypress, Playwright
 
 ## Currently focused on 🎯
 
-- Frontend architecture and platform modernization
+- Full-stack platform modernization and scalable system design
 - React Native and real-time communication experiences
 - Delivery reliability through testing, CI/CD, and engineering standards
-- Practical use of AI-assisted workflows to improve engineering productivity
+- Practical use of AI-assisted workflows to improve engineering productivity and team consistency
 
 
 ## Recent projects 🧩
