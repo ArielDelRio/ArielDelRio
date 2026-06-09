@@ -1,56 +1,74 @@
-# Hi, I'm Ariel Del Rio
+# Hi, I'm Ariel Del Rio 👋
 
-Senior Software Engineer focused on full-stack platform development, scalable applications, and system modernization.
+Senior Software Engineer with 7+ years of experience building web and mobile applications using React, React Native, TypeScript, Node.js, and NestJS.
 
-I build scalable web and mobile applications using React, React Native, TypeScript, Node.js, and NestJS. My work spans full-stack development, distributed systems, microservices, platform modernization, cloud infrastructure, and CI/CD workflows, with a strong focus on maintainability, reusable platform capabilities, and reliable delivery for complex operational and customer-facing systems.
+I enjoy building reusable platform capabilities, developer-friendly abstractions, and systems that simplify complex workflows. Most of my recent work has focused on real-time communication, frontend architecture, full-stack platform development, and modernization of large production applications.
 
-## What I bring ⚙️
+## What I work on ⚙️
 
-- Full-stack ownership across frontend architecture, Node.js backend services, and platform modernization
-- React and React Native applications for business-critical operational and customer workflows
-- Scalable caching, synchronization, and client-microservice communication patterns with TanStack Query
-- Distributed systems and microservice-based application design
-- Real-time communication systems using Twilio and Zoom
-- Cross-system integration design and provider-service adapter patterns
-- CI/CD standardization, testing strategies, cloud delivery, and release reliability
-- Technical leadership, engineering standards, mentoring, and maintainability mindset
+- Full-stack web and mobile applications
+- React and React Native platforms
+- Real-time communication experiences with Twilio and Zoom
+- Frontend architecture and reusable component systems
+- API design and Node.js services
+- Platform modernization and developer productivity
+- Testing, CI/CD, and reliable software delivery
 
-## Selected impact 🚀
+## Selected Impact 🚀
 
+- Helped drive virtual inspection workflows that reached approximately 64% of total inspection volume
 - Increased end-to-end test coverage across critical application flows from 56% to 82%
-- Contributed to virtual inspection workflows reaching approximately 64% of total inspection volume
-- Reduced ecommerce store setup time from weeks to a few hours through reusable template architecture
-- Reduced dealer website launch time from 2–3 weeks to 3 days through workflow standardization
-- Modernized a large legacy React platform and enabled continued platform modernization through dependency upgrades and containerization
-- Standardized integrations and reduced operational complexity through a global order management system for third-party providers
-- Led progressive backend modernization from Hapi.js + Sequelize to NestJS + Prisma while preserving interoperability
+- Modernized a large legacy React platform and established scalable application patterns
+- Built reusable communication capabilities adopted across multiple products
+- Led migration efforts from Hapi.js + Sequelize to NestJS + Prisma
+- Designed a global order management system that standardized third-party integrations and reduced operational complexity
 
-## Core stack 🧰
+## Featured Projects 🧩
 
-- Frontend: JavaScript, TypeScript, React, React Native, Next.js, Redux, Zustand, TanStack Query, MUI, Vite
-- Backend and APIs: Node.js, NestJS, Express.js, REST APIs, microservices
-- Cloud and DevOps: Docker, Google Cloud, GitHub Actions, CircleCI, CI/CD
-- Data: PostgreSQL, Prisma, Sequelize
-- Engineering: System design, distributed systems, platform modernization, technical leadership
-- Communication platforms: Twilio, Zoom
-- Testing and quality: Cypress, Playwright
+### Softphone Component
+Reusable Twilio Voice softphone UI built with React, TypeScript, and MUI.
 
-## Currently focused on 🎯
+🔗 https://github.com/ArielDelRio/softphone
 
-- Full-stack platform modernization and scalable system design
+### Chat Component
+Reusable chat experience powered by Twilio Conversations.
+
+🔗 https://github.com/ArielDelRio/chat
+
+### Video Call Component
+Video communication interface powered by Zoom Video SDK.
+
+🔗 https://github.com/ArielDelRio/video-call
+
+### Branch Checker
+CLI utility for detecting environment drift and release inconsistencies across repositories.
+
+🔗 https://github.com/ArielDelRio/branch-checker
+
+## Core Technologies 🧰
+
+Frontend: React, React Native, TypeScript, JavaScript, Next.js, Redux, TanStack Query
+
+Backend: Node.js, NestJS, Express.js, REST APIs, Microservices
+
+Cloud & DevOps: Docker, Google Cloud, GitHub Actions, CircleCI, CI/CD
+
+Data: PostgreSQL, Prisma, Sequelize
+
+Testing: Cypress, Playwright
+
+Integrations: Twilio, Zoom Video SDK, Shopify
+
+## Currently Focused On 🎯
+
+- Scalable full-stack application design
 - React Native and real-time communication experiences
-- Delivery reliability through testing, CI/CD, and engineering standards
-- Practical use of AI-assisted workflows to improve engineering productivity and team consistency
-
-
-## Recent projects 🧩
-
-- Softphone Component — Twilio Voice softphone UI component (React/TypeScript/MUI). https://github.com/ArielDelRio/softphone
-- Chat Component — Twilio Conversations chat UI component (React/TypeScript/MUI). https://github.com/ArielDelRio/chat
-- Video Call Component — Zoom Video SDK video call UI component (React/TypeScript/MUI). https://github.com/ArielDelRio/video-call
-- Branch Checker — CLI to check environment drift (dev → QA → prod tag) across GitHub repos. https://github.com/ArielDelRio/branch-checker
+- Platform modernization and developer productivity
+- AI-assisted engineering workflows and development standards
+- Reliable software delivery through testing and CI/CD
 
 ## Connect 🤝
 
-- LinkedIn: https://www.linkedin.com/in/arieldrio
-- Email: arieldelrioviamonte@gmail.com
+LinkedIn: https://www.linkedin.com/in/arieldrio
+
+Email: arieldelrioviamonte@gmail.com
